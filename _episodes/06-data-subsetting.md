@@ -1379,7 +1379,7 @@ be changed with the third argument, `drop = FALSE`).
 >
 >    
 >    ~~~
->    gapminder[gapminder$lifeExp > 80]
+>    gapminder[gapminder$lifeExp > 80,]
 >    ~~~
 >    {: .language-r}
 >
